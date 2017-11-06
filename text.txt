@@ -1,0 +1,191 @@
+#dian lin
+import turtle
+
+dian = turtle . Turtle()
+
+turtle.bgcolor("black")
+
+dian.color('red')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.color('yellow')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.penup()
+
+dian.forward(200)
+
+dian.right(90)
+
+dian.pendown()
+
+dian.color('deep sky blue')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.color('medium spring green')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.penup()
+
+dian.forward(200)
+
+dian.right(90)
+
+dian.pendown()
+
+dian.color('slate blue')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.color('pink')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.penup()
+
+dian.forward(500)
+
+dian.left(360)
+
+dian.pendown()
+
+dian.color('red')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.color('yellow')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.penup()
+
+dian.forward(200)
+
+dian.right(90)
+
+dian.pendown()
+
+dian.color('deep sky blue')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.color('medium spring green')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.penup()
+
+dian.forward(200)
+
+dian.right(90)
+
+dian.pendown()
+
+dian.color('slate blue')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
+dian.color('pink')
+
+for times in range(20):
+
+    dian.begin_fill()
+
+    dian.forward(200)
+
+    dian.left(170)
+
+    dian.end_fill()
+
